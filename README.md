@@ -38,7 +38,7 @@ I am continuously improving my analytical thinking, data visualization skills, a
  <img src="https://raw.githubusercontent.com/adityaboruah/data-portfolio/main/visuals/mis_report2.png" width="700"/>
 
  **Project File:** 
- [Download Sales Target Performance Report](./projects/sales_executive_target_analysis.xlsx)
+ [Download Sales Target Performance Report](./projects/sales_executive_target_analysis.xlsm)
 
 </a>
 
