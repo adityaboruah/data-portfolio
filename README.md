@@ -96,7 +96,8 @@ Interactive dashboard visualizing key sales KPIs, performance trends, and revenu
 ## E-Commerce Dashboard (Excel)
 
 <a href="./projects/ecommerce_dashboard.xlsx">
-  <img src="visuals/excel_dashboard_1.png" width="700"/>
+<img src="https://raw.githubusercontent.com/adityaboruah/data-portfolio/main/visuals/excel_dashboard1.png" width="700"/>
+
 </a>
 
 **Tool Used:** Excel  
