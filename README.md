@@ -64,7 +64,8 @@ Included state-wise performance comparison to identify growth-driving regions an
 ## Sales Analysis Report
 
 <a href="./projects/sales_analysis.xlsx">
-  <img src="visuals/mis_report_1.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/adityaboruah/data-portfolio/main/visuals/mis_report1.png" width="700"/>
+
 </a>
 
 **Tool Used:** Excel  
