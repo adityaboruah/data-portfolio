@@ -80,7 +80,8 @@ Focused on performance trends and contribution analysis across different busines
 ## Sales Dashboard (Excel)
 
 <a href="./projects/sales_dashboard.xlsx">
-  <img src="visuals/excel_dashboard_2.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/adityaboruah/data-portfolio/main/visuals/excel_dashboard2.png" width="700"/>
+
 </a>
 
 **Tool Used:** Excel  
