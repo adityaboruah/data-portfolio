@@ -117,7 +117,8 @@ Developed an interactive business intelligence dashboard using DAX measures and 
 ## Power BI Data Modeling
 
 <a href="./projects/data_modelling.pbix">
-  <img src="visuals/powerbi_data_model.png" width="700"/>
+ <img src="https://raw.githubusercontent.com/adityaboruah/data-portfolio/main/visuals/data_model_powerbi.png" width="700"/>
+
 </a>
 
 **Tool Used:** Power BI  
