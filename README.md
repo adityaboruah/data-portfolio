@@ -35,7 +35,8 @@ I am continuously improving my analytical thinking, data visualization skills, a
 ## Sales Target Performance Analysis
 
 <a href="./projects/sales_executive_target_analysis.xlsx">
-  <img src="visuals/mis_report_2" width="700"/>
+ <img src="https://raw.githubusercontent.com/adityaboruah/data-portfolio/main/visuals/mis_report2.png" width="700"/>
+
 </a>
 
 **Tool Used:** Excel  
