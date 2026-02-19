@@ -154,7 +154,6 @@ Implemented structured relationships to optimize reporting performance and enabl
 
 ---
 
-## Connect With Me
 
 ## Connect With Me
 
