@@ -34,8 +34,11 @@ I am continuously improving my analytical thinking, data visualization skills, a
 
 ## Sales Target Performance Analysis
 
-<a href="./projects/sales_executive_target_analysis.xlsx">
+
  <img src="https://raw.githubusercontent.com/adityaboruah/data-portfolio/main/visuals/mis_report2.png" width="700"/>
+
+ **Project File:** 
+ [Download Sales Target Performance Report](./projects/sales_target_performance.xlsx)
 
 </a>
 
@@ -49,8 +52,11 @@ The report highlights regional performance gaps and high-performing cities to su
 
 ## Brand Growth Analysis (2022 vs 2023)
 
-<a href="./projects/brand_wise_growth_analysis.xlsx">
+
  <img src="https://raw.githubusercontent.com/adityaboruah/data-portfolio/main/visuals/mis_report3.png" width="700"/>
+
+ **Project File:** 
+ [Download Brand Wise Growth Report](./projects/brand_wise_growth_analysis.xlsx)
 
 </a>
 
@@ -63,8 +69,11 @@ Included state-wise performance comparison to identify growth-driving regions an
 
 ## Sales Analysis Report
 
-<a href="./projects/sales_analysis.xlsx">
+
   <img src="https://raw.githubusercontent.com/adityaboruah/data-portfolio/main/visuals/mis_report1.png" width="700"/>
+
+   **Project File:** 
+   [Download Sales Analysis Report](./projects/sales_analysis.xlsx)
 
 </a>
 
@@ -82,8 +91,11 @@ Focused on performance trends and contribution analysis across different busines
 
 ## Sales Dashboard (Excel)
 
-<a href="./projects/sales_dashboard.xlsx">
+
   <img src="https://raw.githubusercontent.com/adityaboruah/data-portfolio/main/visuals/excel_dashboard2.png" width="700"/>
+
+   **Project File:** 
+   [Download Excel Sales Dashboard](./projects/sales_dashboard.xlsx)
 
 </a>
 
@@ -95,8 +107,11 @@ Interactive dashboard visualizing key sales KPIs, performance trends, and revenu
 
 ## E-Commerce Dashboard (Excel)
 
-<a href="./projects/ecommerce_dashboard.xlsx">
+
 <img src="https://raw.githubusercontent.com/adityaboruah/data-portfolio/main/visuals/excel_dashboard1.png" width="700"/>
+
+ **Project File:** 
+ [Download Excel Ecommerce Dashboard](./projects/ecommerce_dashboard.xlsx)
 
 </a>
 
@@ -124,8 +139,11 @@ Developed an interactive business intelligence dashboard using DAX measures and 
 
 ## Power BI Data Modeling
 
-<a href="./projects/data_modelling.pbix">
+
  <img src="https://raw.githubusercontent.com/adityaboruah/data-portfolio/main/visuals/data_model_powerbi.png" width="700"/>
+
+   **Project File:** 
+ [Download Power BI Data Modelling Project](./projects/data_modelling.pbix)
 
 </a>
 
