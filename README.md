@@ -1,4 +1,7 @@
 # Aditya Boruah
+<p align="center">
+Business Reporting | Excel & Power BI | Data Modeling
+</p>
 
 <p align="center">
   <img src="assets/photo.jpeg" width="150" style="border-radius:50%;" />
