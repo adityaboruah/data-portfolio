@@ -34,7 +34,7 @@ I am continuously improving my analytical thinking, data visualization skills, a
 
 ## Sales Target Performance Analysis
 
-<a href="projects/mis_reports/sales_executive_target_analysis.xlsx">
+<a href="projects/mis_report/sales_executive_target_analysis.xlsx">
   <img src="visuals/mis_report_2" width="700"/>
 </a>
 
@@ -48,7 +48,7 @@ The report highlights regional performance gaps and high-performing cities to su
 
 ## Brand Growth Analysis (2022 vs 2023)
 
-<a href="projects/mis_reports/brand_wise_growth_analysis.xlsx">
+<a href="projects/mis_report/brand_wise_growth_analysis.xlsx">
   <img src="visuals/mis_report_3.png" width="700"/>
 </a>
 
@@ -61,7 +61,7 @@ Included state-wise performance comparison to identify growth-driving regions an
 
 ## Sales Analysis Report
 
-<a href="projects/mis_reports/sales_analysis.xlsx">
+<a href="projects/mis_report/sales_analysis.xlsx">
   <img src="visuals/mis_report_1.png" width="700"/>
 </a>
 
@@ -79,7 +79,7 @@ Focused on performance trends and contribution analysis across different busines
 
 ## Sales Dashboard (Excel)
 
-<a href="projects/excel_dashboards/sales_dashboard.xlsx">
+<a href="projects/excel_dashboard/sales_dashboard.xlsx">
   <img src="visuals/excel_dashboard_2.png" width="700"/>
 </a>
 
@@ -91,7 +91,7 @@ Interactive dashboard visualizing key sales KPIs, performance trends, and revenu
 
 ## E-Commerce Dashboard (Excel)
 
-<a href="projects/excel_dashboards/ecommerce_dashboard.xlsx">
+<a href="projects/excel_dashboard/ecommerce_dashboard.xlsx">
   <img src="visuals/excel_dashboard_1.png" width="700"/>
 </a>
 
@@ -103,7 +103,7 @@ Built an e-commerce performance dashboard analyzing orders, sales distribution, 
 
 ## Sales Dashboard Project (Power BI)
 
-<a href="projects/powerbi_dashboards/sales_dashboard_project.pbix">
+<a href="projects/powerbi_dashboard/sales_dashboard_project.pbix">
   <img src="visuals/powerbi_dashboard_1.png" width="700"/>
 </a>
 
@@ -115,7 +115,7 @@ Developed an interactive business intelligence dashboard using DAX measures and 
 
 ## Power BI Data Modeling
 
-<a href="projects/powerbi_dashboards/data_modelling.pbix">
+<a href="projects/powerbi_dashboard/data_modelling.pbix">
   <img src="visuals/powerbi_data_model.png" width="700"/>
 </a>
 
