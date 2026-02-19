@@ -156,7 +156,10 @@ Implemented structured relationships to optimize reporting performance and enabl
 
 ## Connect With Me
 
-- 📧 Email: adityaboruahgp@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/aditya-boruah-756229312/  
-- 💻 GitHub: https://github.com/adityaboruah
+## Connect With Me
+
+- 📧 Email: [adityaboruahgp@gmail.com](mailto:adityaboruahgp@gmail.com)  
+- 🔗 LinkedIn: [Aditya Boruah](https://www.linkedin.com/in/aditya-boruah-756229312/)  
+- 💻 GitHub: [Aditya Boruah](https://github.com/adityaboruah)
+
 
