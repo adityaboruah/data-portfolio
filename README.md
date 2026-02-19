@@ -103,7 +103,7 @@ Built an e-commerce performance dashboard analyzing orders, sales distribution, 
 
 ## Sales Dashboard Project (Power BI)
 
-<a href="./projects/sales_dashboard_project.pbix">
+<a href="./projects/Sales_Dashboard_Project.pbix">
   <img src="visuals/powerbi_dashboard_1.png" width="700"/>
 </a>
 
