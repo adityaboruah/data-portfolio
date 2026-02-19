@@ -50,7 +50,8 @@ The report highlights regional performance gaps and high-performing cities to su
 ## Brand Growth Analysis (2022 vs 2023)
 
 <a href="./projects/brand_wise_growth_analysis.xlsx">
-  <img src="visuals/mis_report_3.png" width="700"/>
+ <img src="https://raw.githubusercontent.com/adityaboruah/data-portfolio/main/visuals/mis_report3.png" width="700"/>
+
 </a>
 
 **Tool Used:** Excel  
