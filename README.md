@@ -40,7 +40,7 @@ I am continuously improving my analytical thinking, data visualization skills, a
  **Project File:** 
  [Download Sales Target Performance Report](./projects/sales_executive_target_analysis.xlsm)
 
-</a>
+
 
 **Tool Used:** Excel  
 
@@ -58,7 +58,7 @@ The report highlights regional performance gaps and high-performing cities to su
  **Project File:** 
  [Download Brand Wise Growth Report](./projects/brand_wise_growth_analysis.xlsx)
 
-</a>
+
 
 **Tool Used:** Excel  
 
@@ -75,7 +75,7 @@ Included state-wise performance comparison to identify growth-driving regions an
    **Project File:** 
    [Download Sales Analysis Report](./projects/sales_analysis.xlsx)
 
-</a>
+
 
 **Tool Used:** Excel  
 
@@ -97,7 +97,7 @@ Focused on performance trends and contribution analysis across different busines
    **Project File:** 
    [Download Excel Sales Dashboard](./projects/sales_dashboard.xlsx)
 
-</a>
+
 
 **Tool Used:** Excel  
 
@@ -113,7 +113,7 @@ Interactive dashboard visualizing key sales KPIs, performance trends, and revenu
  **Project File:** 
  [Download Excel Ecommerce Dashboard](./projects/ecommerce_dashboard.xlsx)
 
-</a>
+
 
 **Tool Used:** Excel  
 
@@ -129,7 +129,7 @@ Built an e-commerce performance dashboard analyzing orders, sales distribution, 
   **Project File:**  
 [Download Power BI File](./projects/Sales_Dashboard_Project.pbix)
 
-</a>
+
 
 **Tool Used:** Power BI  
 
@@ -145,7 +145,7 @@ Developed an interactive business intelligence dashboard using DAX measures and 
    **Project File:** 
  [Download Power BI Data Modelling Project](./projects/data_modelling.pbix)
 
-</a>
+
 
 **Tool Used:** Power BI  
 
