@@ -1,1 +1,6 @@
+title: Aditya Boruah Portfolio
+description: Showcasing my Power BI, Excel, and data projects
+url: "https://adityaboruah.github.io"  # Replace with your GitHub Pages URL
+baseurl: "/your-repo-name"            # Replace with your repository name
 
+theme: minima   # You can try other themes like cayman, merlot, architect
