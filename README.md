@@ -154,6 +154,49 @@ Implemented structured relationships to optimize reporting performance and enabl
 
 ---
 
+## Uber Sales Performance Analysis
+
+
+ <img src="https://raw.githubusercontent.com/adityaboruah/data-portfolio/main/visuals/UberAnalysis.png" width="700"/>
+
+ **Project File:** 
+ [Download Sales Target Performance Report](./projects/Uber%20power%20bi%20project.pbix)
+
+ 
+
+**Tool Used:** Power BI
+
+This project analyzes one month of Uber ride data to evaluate overall sales performance, revenue trends, and operational efficiency.
+
+Key Insights & Analysis Performed:
+
+Total Revenue, Total Rides, and Average Fare Analysis
+
+Peak vs Non-Peak Hour Revenue Comparison
+
+City-wise / Location-wise Ride Distribution
+
+Payment Method Analysis (Cash vs Online vs Wallet)
+
+Ride Category Performance (UberX, Premier, Auto, etc.)
+
+Daily Sales Trend & Revenue Fluctuation
+
+Cancellation Rate & Completed Ride Analysis
+
+Advanced Work Done:
+
+Data Cleaning & Transformation using Power Query
+
+Data Modeling with proper relationships
+
+DAX Measures for KPI calculations
+
+Interactive Dashboard with slicers & drill-through
+
+Dynamic KPI Cards & Trend Visualizations
+
+---
 
 ## Connect With Me
 
