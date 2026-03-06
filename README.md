@@ -198,6 +198,20 @@ Dynamic KPI Cards & Trend Visualizations
 
 ---
 
+## Hospital Analytics Dashboard
+
+
+ <img src="https://raw.githubusercontent.com/adityaboruah/data-portfolio/main/visuals/Hospital_Project.png" width="700"/>
+
+ **Project File:** 
+ [Download Sales Target Performance Report](./projects/hospital_data.pbix)
+
+ **Tool Used:**Power BI, SQL, Excel, Power Query, Advanced DAX, Figma
+ This project analyzes hospital operational data to monitor patient management, doctor performance, hospital capacity, and financial performance through an interactive Power BI dashboard. The analysis includes insights such as total patients, doctors, and staff overview, patient admission vs discharge trends, department-wise patient distribution, doctor performance and commission analysis, patient charge type breakdown, medicine sales monitoring, and hospital room occupancy insights. The project involved data extraction using SQL, data cleaning and transformation with Power Query, building a structured data model, creating advanced DAX measures for KPIs, and designing an interactive multi-page dashboard with dynamic visuals and professional UI inspired by Figma.
+
+ ---
+
+
 ## Connect With Me
 
 - 📧 Email: [adityaboruahgp@gmail.com](mailto:adityaboruahgp@gmail.com)  
